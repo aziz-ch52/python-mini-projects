@@ -1,4 +1,4 @@
-# Python Mini Projects : Mini-Projects for Core Programming & Problem Solving
+# Python Mini Projects: Mini-Projects for Core Programming & Problem Solving
 
 Welcome to my central hub for building, refining, and testing core programming logic using Python. 
 
@@ -8,7 +8,7 @@ The goal of this repository is simple: **to shift away from passive learning and
 
 ## 🎯 Repository Objectives
 * **Strengthen Algorithmic Thinking:** Breaking complex problems down into step-by-step logic.
-* **Optimize Code Performance:** Writing Pythonic, readable, and efficient solutions.
+* **Optimize Code Performance:** Write Pythonic, readable, and efficient solutions.
 * **Bridge the Gap to Data:** Transitioning solid programming fundamentals into efficient data manipulation logic (NumPy/Pandas).
 
 ---
@@ -34,6 +34,6 @@ Every project is self-contained and includes the source code alongside a brief b
 ---
 
 ## 🚀 How I'm Tracking My Growth
-1. **Pseudocode First:** Writing down the logic on paper or in comments before writing a single line of executable code.
+1. **Pseudocode First:** Write down the logic on paper or in comments before writing a single line of executable code.
 2. **Refactoring:** Returning to completed projects after a few weeks to optimize the time and space complexity.
 3. **No Copy-Pasting:** Every line of code is written manually to build muscle memory.
